@@ -11,7 +11,7 @@ const HeroSection = () => {
         {/* Left Section - Text Content */}
         <div className="flex flex-col mb-8 md:mb-0 md:w-1/2">
           <h1 className="text-white mb-2 text-3xl sm:text-2xl md:text-6xl lg:text-6xl font-extrabold">
-            <span className='text-gray-500 bg-grad-to-r from-gray-600 to-purple-600'>Hello, I'm</span> <span>Biplop Giri</span>  </h1>
+            <span className='text-gray-500 bg-grad-to-r from-gray-600 to-purple-600'>Hello, I&apos;m</span> <span>Biplop Giri</span>  </h1>
            
             <h1 className="text-white mb-2 text-2xl sm:text-xl md:text-4xl lg:text-5xl font-semibold">
                <TypeAnimation

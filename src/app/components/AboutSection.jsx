@@ -12,7 +12,7 @@ const AboutSection = () => {
         <div className="space-y-6">
           <h1 className="text-3xl font-semibold">About Me!</h1>
           <p className="text-lg text-gray-300">
-            I'm currently pursuing a B.E. in Electronics and Communication Engineering at Tribhuwan University in Kathmandu, Nepal. I have a strong passion for technology, especially in the fields of web development and machine learning. I enjoy solving real-world problems through coding.
+            I&apos;m currently pursuing a B.E. in Electronics and Communication Engineering at Tribhuwan University in Kathmandu, Nepal. I have a strong passion for technology, especially in the fields of web development and machine learning. I enjoy solving real-world problems through coding.
           </p>
 
           {/* Clickable Section for Skills and Education */}
